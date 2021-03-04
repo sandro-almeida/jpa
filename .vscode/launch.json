@@ -1,0 +1,95 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteJPQLMovimentacaoCategoria",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jpa.TesteJPQLMovimentacaoCategoria",
+            "projectName": "jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteJPQL_V2",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jpa.TesteJPQL_V2",
+            "projectName": "jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteJPQL",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jpa.TesteJPQL",
+            "projectName": "jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaRelacionamentoClienteConta",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jpa.TestaRelacionamentoClienteConta",
+            "projectName": "jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaRelacionamentoMovimentacaoCategoria",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jpa.TestaRelacionamentoMovimentacaoCategoria",
+            "projectName": "jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaConsultaMovimentacao",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jpa.TestaConsultaMovimentacao",
+            "projectName": "jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaRelacionamento",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jpa.TestaRelacionamento",
+            "projectName": "jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestandoEstados",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jpa.TestandoEstados",
+            "projectName": "jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteCriaContaComSaldoV2",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jpa.TesteCriaContaComSaldoV2",
+            "projectName": "jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteAlteraSaldoConta",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jpa.TesteAlteraSaldoConta",
+            "projectName": "jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteCriaContaComSaldo",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jpa.TesteCriaContaComSaldo",
+            "projectName": "jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteCriaConta",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jpa.TesteCriaConta",
+            "projectName": "jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteCriaTabelas",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jpa.TesteCriaTabelas",
+            "projectName": "jpa"
+        }
+    ]
+}
